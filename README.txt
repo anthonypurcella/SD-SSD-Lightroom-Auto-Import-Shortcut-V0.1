@@ -3,6 +3,9 @@ SD CARD - SSD - LIGHTROOM AUTO-IMPORT V0.1
 
 Any questions or issues, please email purcellaanthony@gmail.com
 Feel free to let me know if there is anything I can do to make this better or if theres anything I'm missing!
+
+if you liked this shortcut or want to help support me making more things in the future (: https://buymeacoffee.com/anthonypmm
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUIRED FOR USE:
