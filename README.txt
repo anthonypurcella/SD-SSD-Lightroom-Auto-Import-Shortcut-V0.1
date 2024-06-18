@@ -78,6 +78,11 @@ LIGHTROOM AUTO-IMPORT SETUP
 	Card' and where Lightroom opens for the first time. There is a delay under there. Just change the number to a number that works better for
 	your computer
 
+	Also, for the Locating files and Copying files, due to the single run of AppleScripts, I was not able to have a sort of loading screen to show
+	that the program is still running. But dont worry about it. If you have a lot of files, during the locating and copying the process could take
+	a while, and there will be nothing on the screen indicating. But it is working, just give it time. If there is something wrong, youll get an
+	error message. So just sit back or walk away and like the program do its thing!
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 YOU ARE NOW ALL SETUP!!!!
