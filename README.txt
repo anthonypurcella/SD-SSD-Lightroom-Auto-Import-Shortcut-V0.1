@@ -68,6 +68,7 @@ LIGHTROOM AUTO-IMPORT SETUP
 	photos from IMPORTED to AUTO-IMPORTED.
 	- Then click 'OK'
 
+	MAKE SURE AUTO-IMPORTED FOLDER IS NAMED "AUTO-IMPORTED" otherwise, renaming folder will fail.
 	Lightroom's Auto-import is now setup, and now you don't need to worry about it until you have a new Catalog.
 
 ***********************************IMPORTANT NOTE***************************************
